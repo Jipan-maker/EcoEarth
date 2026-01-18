@@ -1,13 +1,13 @@
 
-# Byte-compiled / optimized / DLL files
+# File Byte-compiled / optimal / DLL
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# Ekstensi C
 *.so
 
-# Distribution / packaging
+# Distribusi / pemaketan
 .Python
 build/
 develop-eggs/
@@ -28,16 +28,16 @@ share/python-wheels/
 MANIFEST
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+# Biasanya file ini ditulis oleh skrip python dari template
+# sebelum PyInstaller membangun exe, untuk menyisipkan tanggal/info lainnya.
 *.manifest
 *.spec
 
-# Installer logs
+# Log Installer
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit test / laporan coverage
 htmlcov/
 .tox/
 .nox/
@@ -62,10 +62,10 @@ cover/
 celerybeat-schedule
 celerybeat.pid
 
-# SageMath parsed files
+# File SageMath yang di-parse
 *.sage.py
 
-# Environments
+# Environment (Lingkungan Virtual)
 .env
 .venv
 env/
@@ -74,14 +74,14 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
+# Pengaturan proyek Spyder
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Pengaturan proyek Rope
 .ropeproject
 
-# mkdocs documentation
+# Dokumentasi mkdocs
 /site
 
 # mypy
@@ -89,7 +89,7 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-# Pyre type checker
+# Pemeriksa tipe Pyre
 .pyre/
 
 # vscode
